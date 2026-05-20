@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Desafio Copilot Prompts</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
@@ -23,9 +23,8 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
+        <a href="https://github.com/josenetomg/desafio-copilot-prompts">
+        </a>
     </td>
     <td colspan="3">
     <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
